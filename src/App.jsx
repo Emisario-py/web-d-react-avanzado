@@ -1,7 +1,10 @@
+import './index.css'
+import { BasicForm } from './components/BasicForm'
+
 export const App = () => {
   return (
     <div>
-      <a href='http://' target='_blank' rel='noreferrer'>Ir al home</a>
+      <BasicForm />
     </div>
   )
 }
