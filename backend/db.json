@@ -5,6 +5,30 @@
       "text": "Hola mundo",
       "sender": "user",
       "timestamp": "2025-07-30T02:25:41.966Z"
+    },
+    {
+      "id": 1753842341967,
+      "text": "React express",
+      "sender": "bot",
+      "timestamp": "2025-07-30T02:25:41.966Z"
+    },
+    {
+      "id": 1754010311694,
+      "text": "Hola",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:05:11.694Z"
+    },
+    {
+      "id": 1754011294149,
+      "text": "Por que el cielo es azul",
+      "sender": "user",
+      "timestamp": "2025-08-01T01:21:34.149Z"
+    },
+    {
+      "id": 1754011305751,
+      "text": "\nEl color del cielo puede variar dependiendo de la ubicación y las condiciones atmosféricas, pero en general, el cielo se ve azul debido a la forma en que la luz solar interactúa con la atmósfera de la Tierra. Aquí hay algunas razones por las que el cielo puede verse azul:\n\n1. Difracción de la luz: Cuando la luz del sol entra en la atmósfera, se dispersa en todas las direcciones debido a la difracción. La luz roja y violeta son difractadas más fácilmente que la luz azul, por lo que estas longitudes de onda más cortas son másprobables de ser vistas desde la Tierra. Como resultado, el cielo aparece azul debido a la mayor cantidad de luz azul que llega a nuestros ojos.\n2. Scattering of light: When sunlight enters the atmosphere, it scatters in all directions due to the molecules of gases and particles in the air. The shorter wavelengths of light (such as blue and violet) are scattered more than longer wavelengths (such as red), which means that these colors are more likely to be seen from Earth. As a result, the sky appears blue due to the greater amount of blue light that reaches our eyes.\n3. Rayleigh scattering: The blue color of the sky is also due to a phenomenon called Rayleigh scattering, which occurs when sunlight encounters tiny molecules of gases in the atmosphere, such as nitrogen and oxygen. These molecules scatter the shorter wavelengths of light (such as blue and violet) more than the longer wavelengths (such as red), resulting in a blueish tint to the sky.\n4. Angle of observation: The color of the sky can also be affected by the angle of observation. When the sun is low on the horizon, the light has to travel through a longer distance in the atmosphere, which scatters the shorter wavelengths of light (such as blue and violet) more than the longer wavelengths (such as red). As a result, the sky appears more blue than it would at higher altitudes.\n5. Atmospheric conditions: The color of the sky can also be influenced by atmospheric conditions such as pollution, dust, and water vapor. These factors can absorb or scatter certain wavelengths of light, resulting in a different appearance of the sky. For example, during sunrise and sunset, when the sun's rays pass through more of the Earth's atmosphere, the sky may appear more orange or red due to the scattering of light by atmospheric particles.\n\nIn summary, the blue color of the sky is due to a combination of factors, including the diffraction and scattering of light by the atmosphere, as well as the angle of observation and atmospheric conditions.",
+      "sender": "bot",
+      "timestamp": "2025-08-01T01:21:45.751Z"
     }
   ]
 }
